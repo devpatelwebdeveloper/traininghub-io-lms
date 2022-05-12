@@ -1,0 +1,10 @@
+{
+  "name": "traininghub-io-lms",
+  "version": "1.0.0",
+  "description": "LMS System for TrainingHub.io",
+  "main": "index.js",
+  "author": "Devpatelwebdeveloper",
+  "license": "MIT",
+  "private":true,
+  "workspaces":["packages/*"]
+}
